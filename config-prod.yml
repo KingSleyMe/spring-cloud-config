@@ -1,6 +1,0 @@
-
-#应用名为config的线上配置
-
-name: conifg-prod
-user:
-  name: qiliang
