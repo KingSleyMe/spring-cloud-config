@@ -1,2 +1,2 @@
-database.name=test
-database.ch_name=测试
+mysql.database.name=test
+mysql.database.ch_name=测试
