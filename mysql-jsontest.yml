@@ -1,3 +1,4 @@
-dms_Database: {
+{dms_Database: {
 		database_name: "cubedata"
+}
 }
