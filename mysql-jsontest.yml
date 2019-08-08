@@ -4,7 +4,7 @@
     "database_name": "cubedata",
     "dms_tables": [
       {
-        "tables_name": "col_dict_def",
+        "table_name": "col_dict",
         "dms_columns": [
           {
             "column_name": "dict_id",
