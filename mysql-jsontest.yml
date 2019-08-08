@@ -537,14 +537,8 @@
             "cloumn_type": "int",
             "is_unique": 0,
             "is_enable_null": 0
-          },
-          {
-            "column_name": "CREATE_ADDRESS_DATE",
-            "cloumn_type": "datetime",
-            "is_unique": 0,
-            "is_enable_null": 0
           }
-        ]
+          ]
       }
     ]
   }
