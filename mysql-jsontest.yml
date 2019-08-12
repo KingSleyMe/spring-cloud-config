@@ -1,4 +1,4 @@
-{
+
 	"database": {
 		"database_name": "cubedata",
 		"dto_tables": {
@@ -559,6 +559,6 @@
 			}
 		}
 	}
-}
+
 
 
